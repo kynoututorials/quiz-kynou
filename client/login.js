@@ -15,3 +15,5 @@ Template.login.events({
         })
     }
 })
+
+//Just added a comment to test commit to git from visual code.
