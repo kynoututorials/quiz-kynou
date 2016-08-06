@@ -14,4 +14,4 @@ Template.login.events({
             }
         })
     }
-});
+})
